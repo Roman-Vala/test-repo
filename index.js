@@ -2,6 +2,7 @@
 // git checkout dev
 // git checkout -b hotfix-1 master
 // git merge --no-ff hotfix-1
+// git merge --no-ff dev
 // git branch -D hotfix-1
 
 
