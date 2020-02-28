@@ -15,6 +15,7 @@ const test40 = 4565;
 const test2 = 'new branch test222';
 const Bula ={};
 const news = '898';
+const goodNews = 898;
 // hula
 
 //hop
