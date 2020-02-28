@@ -17,6 +17,6 @@ const Bula ={};
 const news = '898';
 // hula hullsahull
 const goodNews = 898;
-// hula
+// hula bulla
 
 //hop
